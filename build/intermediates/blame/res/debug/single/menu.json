@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/menu/device_control_activity.xml",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/menu/device_control_activity.xml"
+    }
+]

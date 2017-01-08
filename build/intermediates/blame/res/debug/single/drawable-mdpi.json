@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/drawable-mdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/drawable-mdpi/drawer_shadow.9.png",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/drawable-mdpi/stop_vtn.png",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/drawable-mdpi/stop_vtn.png"
+    },
+    {
+        "merged": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/build/intermediates/res/merged/debug/drawable-mdpi/ic_drawer.png",
+        "source": "/home/aman/Downloads/new_swb/arduino_bluetooth_new/src/main/res/drawable-mdpi/ic_drawer.png"
+    }
+]
